@@ -5,7 +5,7 @@ Pseudocode language is based on the exam board AQA's pseudocode used at A-Level 
 This was created in Python 3 using the rply module. An example programme (example.aqa) has been provided.
 To Run the programme use the following command:
 
-```Batch
+```Bash
 python parser.py example.aqa
 ```
 
