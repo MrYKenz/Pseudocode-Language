@@ -1,0 +1,15 @@
+PROGRAMME test
+
+integer x, y, z
+integer total
+
+    SUBROUTINE block()
+         x <- 5
+         y <- 3
+         total <- x + y
+         z <- 10
+         OUTPUT total
+         OUTPUT total * z
+   ENDSUBROUTINE
+
+END test 
