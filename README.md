@@ -1,8 +1,8 @@
 # Pseudocode-Language
-A simple programming language based on formalised Pseudocode
+A simple programming language based on formalised Pseudocode created in Python
 
-An example programme (example.aqa) has been provided.
-To Run the programme use the following command:
+An example program (example.aqa) has been provided.
+To Run the program use the following command:
 
 ```python
 python parser.py example.aqa
