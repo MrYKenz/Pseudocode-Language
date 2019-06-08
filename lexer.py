@@ -2,7 +2,7 @@ from collections import OrderedDict
 from rply import LexerGenerator, Token
 from typing import Callable, Iterator
 
-reserved = ["programme", "integer", "subroutine", "endsubroutine", "end", "output"]
+reserved = ["program", "integer", "subroutine", "endsubroutine", "end", "output"]
 
 operators = OrderedDict([
     ("COMMA", ","),
