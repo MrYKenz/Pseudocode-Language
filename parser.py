@@ -20,7 +20,7 @@ def program(p):
     return ast.Program(head.getstr(), decpart, bodypart)
 
 
-@pg.production('head : PROGRAMME ID')
+@pg.production('head : PROGRAM ID')
 def head(p):
     return p[1]
 
