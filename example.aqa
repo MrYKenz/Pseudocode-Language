@@ -1,4 +1,4 @@
-PROGRAMME test
+PROGRAM test
 
 integer x, y, z
 integer total
